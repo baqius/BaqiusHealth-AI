@@ -1,0 +1,8 @@
+{
+  "name": "CuraHealth AI - Healthcare Assistant & Appointment Care",
+  "description": "Intelligent healthcare assistant chatbot for symptom analysis, doctor appointment scheduling with integrated calendar, and medication dosage guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
